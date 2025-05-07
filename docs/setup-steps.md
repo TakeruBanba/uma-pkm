@@ -55,8 +55,8 @@
 1. リポジトリの作成
 ```bash
 # ローカルリポジトリの作成
-mkdir UMA-PAN
-cd UMA-PAN
+mkdir uma-pkm
+cd uma-pkm
 git init
 
 # 初期ブランチ名の設定（必要な場合）
